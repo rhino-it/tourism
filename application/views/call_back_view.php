@@ -16,7 +16,7 @@
 						Leave your information and email address. We will call back and advise you. 
 					</p> -->
 				</div>
-
+<!-- delete -->
 				<form class="col-lg-8 p-b-30 p-t-8">
 					<div class="row">
 						<div class="col-sm-6 p-b-25">
