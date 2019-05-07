@@ -14,9 +14,10 @@
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
 					<div class="bg-0 h-full">
+
 						<a href="news-detail.html" class="hov-img0 of-hidden">
 							<img src="<?php echo base_url().'assets/images/c_genadii_vyenko_1_0.jpg';?>" alt="IMG">
-						</a>
+						</a> 
 
 						<div class="bg-0 p-rl-28 p-t-26 p-b-35">
 							<h4 class="p-b-12">
