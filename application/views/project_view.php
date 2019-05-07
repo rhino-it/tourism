@@ -1,5 +1,6 @@
 <!-- Project -->
-	<section class="bg-12 p-t-92 p-b-38" style="position: relative;">
+
+	<section class="bg-12 p-t-92 p-b-38" style="position: relative;" >
 		<div class="container">
 			<!-- Title section -->
 			<!-- <div class="flex-col-c-c p-b-50">
@@ -11,6 +12,8 @@
 			</div>
  -->
 			<!--  -->
+
+			<!-- ggg -->
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
 					<!-- Block2 -->
@@ -70,8 +73,4 @@
 				</div>
 			</div>
 		</div>
-		<div style="background-image: url(<?php echo base_url().'assets/images/divider_2.png';?>); width: 100%;
-height: 100px; background-repeat: no-repeat; position: absolute; bottom: -44px;
-left: 0;"></div>
-
 	</section>

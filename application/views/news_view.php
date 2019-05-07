@@ -1,8 +1,5 @@
 	<!-- News -->
 	<section class="bg-12y p-t-40 p-b-60" style="position: relative;">
-		<div style="background-image: url(<?php echo base_url().'assets/images/divider-top_2.png';?>); width: 100%;
-height: 100px; background-repeat: no-repeat; position: absolute; top:-0px;
-left: 0;"></div>
 		<div class="container">
 			<!-- Title section -->
 			<!-- <div class="flex-col-c-c p-b-50">
