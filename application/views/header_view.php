@@ -148,7 +148,7 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-home" aria-hidden="true"></i>
 							</span>
-							<span>379 5Th Ave New York, Nyc 10018</span>
+							<span>Эртеден кээчке иштейбиз </span>
 						</div>
 					</li>
 
@@ -157,7 +157,7 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-phone" aria-hidden="true"></i>
 							</span>
-							<span>(+1) 96 716 6879</span>
+							<span>+996 551 336 944</span>
 						</div>
 					</li>
 
@@ -166,7 +166,7 @@
 							<span class="fs-16 m-r-6">
 								<i class="fa fa-clock-o" aria-hidden="true"></i>
 							</span>
-							<span>Mon-Sat 09:00 am - 17:00 pm/Sunday CLOSE</span>
+							<span>ошондоой</span>
 						</div>
 					</li>
 
