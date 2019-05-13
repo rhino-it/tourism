@@ -71,21 +71,21 @@
 								<ul class="sub-menu">
 										<li>
 											<a href="#">ТУРЫ В ПАМИР-АЛАЙ</a>
-											<ul class="sub-menu">
+											<!-- <ul class="sub-menu">
 												<li><a href="services-detail-01.html">ГРУППОВЫЕ ТУР</a></li>
 												<li><a href="services-detail-02.html">ОР</a></li>
 												<li><a href="services-detail-03.html">ОРОР</a></li>
 												<li><a href="services-detail-03.html">ОРО</a></li>
-											</ul>
+											</ul> -->
 									</li>
 									<li><a href="services-list.html">ТУРЫ В ДРУГИЕ СТРАНЫ</a>
-											<ul class="sub-menu">
+											<!-- <ul class="sub-menu">
 												<li><a href="services-detail-01.html">Египет</a></li>
 												<li><a href="services-detail-02.html">Мальдивы</a></li>
 												<li><a href="services-detail-03.html">ОАЭ</a></li>
 												<li><a href="services-detail-03.html">Таиланд</a></li>
 												<li><a href="services-detail-03.html">Шри-Ланка</a></li>
-											</ul>
+											</ul> -->
 									</li>
 								</ul>
 							</li>

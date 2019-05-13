@@ -8,7 +8,7 @@ left: 0;"></div>
 		<div class="layer"></div>
 			<div class="container">
 				<div class="row justify-content-center justify-content-md-start">
-					<div class="col-sm-8 col-md-4 col-lg-3 p-b-20">
+					<div class="col-sm-8 col-md-4 col-lg-4 p-b-20">
 						<div class="size-h-1 flex-s-e p-b-6 m-b-18">
 							<a href="#">
 								<img class="max-s-full" src="<?php echo base_url().'assets/images/logo-notext.png';?>" alt="IMG">
@@ -86,7 +86,7 @@ left: 0;"></div>
 						</ul>
 					</div>
 
-					<div class="col-sm-8 col-md-4 col-lg-3 p-b-20">
+					<div class="col-sm-8 col-md-4 col-lg-5 p-b-20">
 						<div class="size-h-1 flex-s-e m-b-18">
 							<h4 class="t1-m-3 text-uppercase cl-0">
 								Куда поехать
