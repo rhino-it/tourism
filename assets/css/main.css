@@ -120,7 +120,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
   height: 39px;
   bottom: -40px;
   right: 40px;
-  background-color: #FF0000;
+  background-color: #D02438;
   justify-content: center;
   align-items: center;
   z-index: 1000;
@@ -424,7 +424,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
   position: absolute;
   top:0;
   left:100%;
-  width: 190px;
+  width: 230px;
   background-color: #fff;
   transition: all 0.2s;
   -webkit-transition: all 0.2s;
@@ -495,7 +495,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 /*---------------------------------------------*/
 .menu-desktop .main-menu > li:hover > a {
   text-decoration: none;
-  color: #FF0000;
+  color: #D02438;
 }
 
 .menu-desktop .main-menu > li:hover > .sub-menu {
@@ -509,7 +509,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 } 
 
 .menu-desktop .sub-menu li:hover {
-  background-color: #FF0000;
+  background-color: #D02438;
 }
 
 .menu-desktop .sub-menu > li:hover > a {
@@ -642,7 +642,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 .menu-mobile .main-menu {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #FF0000;
+  background-color: #D02438;
 }
 
 .menu-mobile .main-menu > li > a {
@@ -729,7 +729,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 
 .menu-mobile .sub-menu a:hover {
   text-decoration: none;
-  color: #FF0000;
+  color: #D02438;
 }
 
 @media (min-width: 992px){
@@ -811,7 +811,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 #rev_slider_3 .btn1,
 #rev_slider_2 .btn1,
 #rev_slider_1 .btn1 {
-  background-color: #8C0202;
+  background-color: #D00018;
   color: #fff;
 }
 
@@ -828,7 +828,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 #rev_slider_2 .btn1:hover,
 #rev_slider_1 .btn2:hover,
 #rev_slider_1 .btn1:hover {
-  background-color: #FF0000;
+  background-color: #D02438;
   color: #fff;
 }
 
@@ -1842,7 +1842,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .block2:hover .block2-content {
-  background-color: #FF0000;
+  background-color: #D02438;
   -webkit-transform: translateY(0px);
   -moz-transform: translateY(0px);
   -ms-transform: translateY(0px);
@@ -2516,7 +2516,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg-9 {background-color: #999;}
 .bg-101 {background-color: #072032;}
 .bg-10g {background-color: #26C281;}
-.bg-10 {background-color: #FF0000;}
+.bg-10 {background-color: #D02438;}
 .bg-11 {background-color: #;}
 .bg-12 {background-color: #26C281;}
 .bg-12y {background-color: #F8961F;}
