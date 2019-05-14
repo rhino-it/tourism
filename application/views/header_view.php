@@ -63,7 +63,9 @@
 					<div class="menu-desktop">
 						<ul class="main-menu respon-sub-menu">
 							<li>
+
 								<a href="<?php echo base_url(); ?>">ГЛАВНАЯ</a>
+
 							</li>
 
 							<li>
@@ -108,11 +110,11 @@
 							</li>
 							
 							<li>
-								<a href="shop-grid.html">О КОМПАНИИ</a>
+								<a href="http://pamir.kg/pages/about">О КОМПАНИИ</a>
 							</li>
 
 							<li>
-								<a href="shop-grid.html">КОНТАКТЫ</a>
+								<a href="http://pamir.kg/pages/contact">КОНТАКТЫ</a>
 								<ul class="sub-menu">
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>
 									<li><a href="home-02.html">ЛОРОР</a></li>

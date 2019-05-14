@@ -14,8 +14,9 @@
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
 					<div class="bg-10 h-full">
-						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-							<img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG">
+						<a href="http://pamir.kg/pages/news_page" class="hov-img0 of-hidden bg-0">
+							<!-- <img src="<?php echo base_url().'assets/images/1.jpg';?>" alt="IMG"> -->
+							<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
 						</a>
 
 						<div class="p-rl-30 p-t-26 p-b-20">
@@ -37,8 +38,8 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
 					<div class="bg-10g h-full">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-							<img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG">
-
+							<!-- <img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG"> -->
+<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
 						</a>
 
 						<div class="p-rl-30 p-t-26 p-b-20">
@@ -58,7 +59,8 @@
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
 					<div class="bg-10 h-full">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
-							<img src="<?php echo base_url().'assets/images/5.png';?>" alt="IMG">
+						<!-- 	<img src="<?php echo base_url().'assets/images/5.png';?>" alt="IMG"> -->
+						<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/5.png';?>');"></div>
 						</a>
 
 						<div class="p-rl-30 p-t-26 p-b-20">
