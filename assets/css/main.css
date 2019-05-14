@@ -2517,7 +2517,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg-101 {background-color: #072032;}
 .bg-10g {background-color: #26C281;}
 .bg-10 {background-color: #D02438;}
-.bg-11 {background-color: #;}
+.bg-11 {background-color: none;}
 .bg-12 {background-color: #26C281;}
 .bg-12y {background-color: #F8961F;}
 .bg-13 {background-color: #dc7356;}
@@ -3083,3 +3083,109 @@ transition: 1s;
 .beki:hover{
   transform: scale(1.6);
 }
+
+.k_aviabilety{
+  padding: 20px 15px;
+  background: #F0F0F0;
+  text-align: center;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: #06243B;
+  font-weight: bold;
+  margin: 20px 0;
+}
+.k_whatsapp_block{
+   padding: 200px 0px;
+   position: relative;
+   color: #fff;
+   background-color: #1E4482;
+ }
+ .k_plane_block{
+    width: 400px;
+    height: 160px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: rgba(59,146,227,1);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(59,146,227,1) 0%, rgba(30,68,130,1) 64%, rgba(30,68,130,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(59,146,227,1)), color-stop(64%, rgba(30,68,130,1)), color-stop(100%, rgba(30,68,130,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(59,146,227,1) 0%, rgba(30,68,130,1) 64%, rgba(30,68,130,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(59,146,227,1) 0%, rgba(30,68,130,1) 64%, rgba(30,68,130,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(59,146,227,1) 0%, rgba(30,68,130,1) 64%, rgba(30,68,130,1) 100%);
+background: radial-gradient(ellipse at center, rgba(59,146,227,1) 0%, rgba(30,68,130,1) 64%, rgba(30,68,130,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', endColorstr='#1e4482', GradientType=1 );
+ }
+ .k_plane{
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+     width: 400px;
+    height: 160px;
+    position: absolute;
+    bottom: 0;
+    right: 0; 
+    z-index: 50;
+ }
+ .k_ticket_script{
+   position: absolute;
+    top: 0;
+    right: 0;
+    padding: 15px;
+  z-index: 51;
+ }
+ .k_ticket_script h1{
+  font-size: 1.8em;
+  font-weight: 700;
+  padding-bottom: 15px;
+  padding-top: 10px;
+ }
+ .k_whatsApp_button{
+  display: inline-block;
+  background-color: #2ED54A;
+  border-radius: 50px;
+  padding: 10px 20px;
+  color: #fff;
+  margin: 20px 0px 20px 400px;
+  transition: 0.3s;
+ }
+  .k_whatsApp_button:hover{
+  color: #fff;
+  box-shadow: 0 0 3px 4px #fff;
+  }
+ @media screen and (max-width: 850px) {
+    .k_plane{
+    width: 300px;
+    height: 160px;
+    }
+     .k_plane_block{
+    width: 300px;
+    height: 160px;
+     }
+      .k_whatsApp_button{
+      margin: 20px 0px 20px 0px;
+    }
+ }
+  @media screen and (max-width: 450px) {
+    .k_whatsapp_block{
+   padding: 250px 0px;
+ }
+    .k_plane{
+    width: 200px;
+    height: 160px;
+    }
+     .k_plane_block{
+    width: 200px;
+    height: 160px;
+     }
+ }
+ @media screen and (min-width: 996px) {
+    .k_ticket_script{
+      width: 70%;
+      left: 0;
+    }
+    .k_whatsApp_button{
+        margin: 20px 0px 20px 300px;
+    }
+
+
+ }

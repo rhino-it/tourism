@@ -63,7 +63,7 @@
 					<div class="menu-desktop">
 						<ul class="main-menu respon-sub-menu">
 							<li>
-								<a href="index.html">ГЛАВНАЯ</a>
+								<a href="<?php echo base_url(); ?>">ГЛАВНАЯ</a>
 							</li>
 
 							<li>
@@ -91,7 +91,7 @@
 							</li>
 
 							<li>
-								<a href="projects-grid.html">АВИАБИЛЕТЫ</a>
+								<a href="<?php echo base_url('pages/order'); ?>">АВИАБИЛЕТЫ</a>
 								<ul class="sub-menu">
 									<li><a href="projects-grid.html">МОСКВА</a></li>
 									<li><a href="projects-grid.html">ОШШ</a></li>
