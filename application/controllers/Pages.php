@@ -23,6 +23,16 @@ class Pages extends CI_Controller {
 		$this->load->view('sign_up_view');
 		$this->load->view('footer_view');
 	}	
+
+
+	public function order($id=0)	{
+		$this->load->model('Get_model');
+		$this->load->view('head_view');
+		$this->load->view('header_view');
+		$this->load->view('order_view');
+		$this->load->view('footer_view');
+	}	
+
 		public function about()	{
 		$this->load->model('Get_model');
 		$this->load->view('head_view');
@@ -45,5 +55,6 @@ class Pages extends CI_Controller {
 		$this->load->view('news_page_view');
 		$this->load->view('footer_view');
 	}
+
 
 }	
