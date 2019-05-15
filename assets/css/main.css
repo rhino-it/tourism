@@ -1419,7 +1419,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 }
 
 a.breadcrumb-item {
-  color: #16a086;
+  color: #ff0000;
 }
 
 a.breadcrumb-item:hover {
@@ -2560,7 +2560,7 @@ input.num-product::-webkit-inner-spin-button {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #05233a;
+  background-color: #05233a99;
 }
 .layer {
     background-color: rgba(225,225,225, 1);

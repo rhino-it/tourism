@@ -1,17 +1,17 @@
 <!-- Title page -->
-	<section class="bg-img1 kit-overlay1" style="background-image: url(images/bg-05.jpg);">
+	<section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/тур.jpg');?>);">
 		<div class="container size-h-3 p-tb-30 flex-col-c-c">
 			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
-				About Us
+			Наша компания
 			</h2>
 
 			<div class="flex-wr-c-c">
-				<a href="index.html" class="breadcrumb-item">
-					Home 
+				<a href="<?php echo base_url(); ?>" class="breadcrumb-item">
+					Главная
 				</a>
 
 				<span class="breadcrumb-item">
-					About Us
+					О компании
 				</span>
 			</div>
 		</div>
@@ -21,11 +21,11 @@
 	<section class="bg-0 p-t-92 p-b-60">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-sm-10 col-md-6 p-b-35">
+				<div class="col-sm-12 col-md-12 p-b-35">
 					<!-- Title section -->
 					<div class="flex-col-c-s p-b-35">
 						<h3 class="t1-b-1 cl-3 m-b-11">
-							Mission & Vision
+							Мы предлагаем 
 						</h3>
 
 						<div class="size-a-2 bg-3"></div>
@@ -33,60 +33,23 @@
 
 					<div class="p-r-20 p-r-0-sr767">
 						<p class="t1-s-2 cl-6 m-b-10">
-							<span class="t1-s-5 cl-3">At present:</span> Leave your information and email address. We will call back and advise you. Duis aute irure dolor in reprehenderit in voluptate. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere offis possimus 
+							<span class="t1-s-5 cl-3">Наше туристическое</span> агентство уже не первый год занимает лидирующие позиции на рынке в Кыргызстане. Мы всегда открыты для ваших пожеланий и готовы предложить множество свежих идей для незабываемого отдыха. Наши цены и уровень обслуживания вас приятно удивят!
 						</p>
 
 						<p class="t1-s-2 cl-6 m-b-10">
-							<span class="t1-s-5 cl-3">In the future:</span> Leave your information and email address. We will call back and advise you. Duis aute irure dolor in reprehenderit in voluptate. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus.
+							<span class="t1-s-5 cl-3">Наше турагенство в Оше</span> специализируются на организации корпоративных и индивидуальных туров. Мы готовы предложить вам множество интересных идей для отдыха на море, а также экскурсионные и горнолыжные туры по доступным ценам. Также к вашим услугам туры в экзотические страны, программу для которых мы разработаем в соответствии с вашими личными предпочтениями и пожеланиями.
 						</p>
 					</div>
 				</div>
 
-				<div class="col-sm-10 col-md-6 p-b-35">
-					<!-- Title section -->
-					<div class="flex-col-c-s p-b-8">
-						<h3 class="t1-b-1 cl-3 m-b-11">
-							Our Stats
-						</h3>
-
-						<div class="size-a-2 bg-3"></div>
-					</div>
-
-					<!-- Progress -->
-					<div class="wrap-progress size-w-6 w-full-sr767">
-						<span class="dis-block t1-s-4 cl-3 p-b-8 p-t-26">
-							Financial Analyst
-						</span>
-
-						<div class="progress-item">
-							<div class="progress-inner txt-s-113 cl0 txt-right p-r-10" data-percent="93%"></div>
-						</div>
-
-						<span class="dis-block t1-s-4 cl-3 p-b-8 p-t-26">
-							Business Suports
-						</span>
-
-						<div class="progress-item">
-							<div class="progress-inner txt-s-113 cl0 txt-right p-r-10" data-percent="60%"></div>
-						</div>
-
-						<span class="dis-block t1-s-4 cl-3 p-b-8 p-t-26">
-							Inverstments
-						</span>
-
-						<div class="progress-item">
-							<div class="progress-inner txt-s-113 cl0 txt-right p-r-10" data-percent="80%"></div>
-						</div>
-					</div>
-				</div>
+	
 			</div>
 		</div>
 	</section>
 
 	<!-- Why chosse us -->
-	<section class="bg-12 p-t-92 p-b-70">
+<!-- 	<section class="bg-12 p-t-92 p-b-70">
 		<div class="container">
-			<!-- Title section -->
 			<div class="flex-col-c-c p-b-50">
 				<h3 class="t1-b-1 cl-3 txt-center m-b-11">
 					Why Chosse Us
@@ -94,11 +57,9 @@
 
 				<div class="size-a-2 bg-3"></div>
 			</div>
-
-			<!--  -->
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-6 col-lg-3 p-b-30">
-					<!-- Block1 -->
+				
 					<div class="block1 trans-04">
 						<div class="block1-show trans-04">
 							<div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
@@ -124,7 +85,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-6 col-lg-3 p-b-30">
-					<!-- Block1 -->
+					
 					<div class="block1 trans-04">
 						<div class="block1-show trans-04">
 							<div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
@@ -150,7 +111,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-6 col-lg-3 p-b-30">
-					<!-- Block1 -->
+					
 					<div class="block1 trans-04">
 						<div class="block1-show trans-04">
 							<div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
@@ -176,7 +137,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-6 col-lg-3 p-b-30">
-					<!-- Block1 -->
+				
 					<div class="block1 trans-04">
 						<div class="block1-show trans-04">
 							<div class="block1-symbol txt-center wrap-pic-max-s m-b-23 pos-relative lh-00 trans-04">
@@ -202,10 +163,10 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- Number -->
-	<div class="parallax100 kit-overlay1 p-tb-38" style="background-image: url(images/bg-01.jpg);">
+<!-- 	<div class="parallax100 kit-overlay1 p-tb-38" style="background-image: url(images/bg-01.jpg);">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 p-tb-30">
@@ -245,12 +206,12 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Team -->
-	<section class="bg-0 p-t-92 p-b-52">
+<!-- 	<section class="bg-0 p-t-92 p-b-52">
 		<div class="container">
-			<!-- Title section -->
+			
 			<div class="flex-col-c-c p-b-50">
 				<h3 class="t1-b-1 cl-3 txt-center m-b-11">
 					Meet Our Team
@@ -259,7 +220,7 @@
 				<div class="size-a-2 bg-3"></div>
 			</div>
 
-			<!--  -->
+			
 			<div class="row justify-content-center">
 				<div class="col-sm-6 col-md-5 col-lg-3 p-b-40">
 					<div>
@@ -422,12 +383,12 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<!-- Testimonials -->
-	<section class="bg-12 p-t-92 p-b-70">
+<!-- 	<section class="bg-12 p-t-92 p-b-70">
 		<div class="container">
-			<!-- Title section -->
+		
 			<div class="flex-col-c-c p-b-50">
 				<h3 class="t1-b-1 cl-3 txt-center m-b-11">
 					Testimonials
@@ -436,7 +397,7 @@
 				<div class="size-a-2 bg-3"></div>
 			</div>
 
-			<!--  -->
+		
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-11 col-lg-6 p-b-30 wrap-block3">
 					<div class="block3 d-flex rs1-block3">
@@ -489,4 +450,4 @@
 
 			</div>
 		</div>
-	</section>
+	</section> -->
