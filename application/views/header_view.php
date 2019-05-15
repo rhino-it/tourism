@@ -69,7 +69,7 @@
 							</li>
 
 							<li>
-								<a href="services-list.html">ТУРЫ</a>
+								<a href="<?php echo base_url('pages/tours'); ?>">ТУРЫ</a>
 								<ul class="sub-menu">
 										<li>
 											<a href="#">ТУРЫ В ПАМИР-АЛАЙ</a>
@@ -93,11 +93,11 @@
 							</li>
 
 							<li>
-								<a href="<?php echo base_url('pages/order'); ?>">АВИАБИЛЕТЫ</a>
+								<a href="<?php echo base_url('pages/airticket'); ?>">АВИАБИЛЕТЫ</a>
 								<ul class="sub-menu">
 									<li><a href="projects-grid.html">МОСКВА</a></li>
-									<li><a href="projects-grid.html">ОШШ</a></li>
-									<li><a href="projects-grid.html">РОРО</a></li>
+									<li><a href="projects-grid.html">ОШ</a></li>
+							
 								</ul>
 							</li>
 
@@ -115,10 +115,10 @@
 
 							<li>
 								<a href="http://pamir.kg/pages/contact">КОНТАКТЫ</a>
-								<ul class="sub-menu">
+								<!-- <ul class="sub-menu">
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>
 									<li><a href="home-02.html">ЛОРОР</a></li>
-								</ul>
+								</ul> -->
 							</li>
 						</ul>
 					</div>						

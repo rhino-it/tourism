@@ -3086,7 +3086,7 @@ transition: 1s;
   text-align: center;
   font-size: 2em;
   text-transform: uppercase;
-  color: #06243B;
+  color: #1E4482;
   font-weight: bold;
   margin: 20px 0;
 }
@@ -3097,8 +3097,8 @@ transition: 1s;
    background-color: #1E4482;
  }
  .k_plane_block{
-    width: 400px;
-    height: 160px;
+    width: 450px;
+    height: 180px;
     position: absolute;
     bottom: 0;
     right: 0;
@@ -3115,8 +3115,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
    background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-     width: 400px;
-    height: 160px;
+     width: 450px;
+    height: 180px;
     position: absolute;
     bottom: 0;
     right: 0; 
@@ -3162,9 +3162,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
      .k_whatsapp_block{
       padding: 300px 0px;
      }
-    /*  .k_whatsApp_button{
-      margin: 20px 0px 20px 0px;
-    }*/
  }
   @media screen and (max-width: 450px) {
     .k_whatsapp_block{
@@ -3182,11 +3179,31 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
       font-size: 1em;
      }
  }
- @media screen and (min-width: 996px) {
-   
-   /* .k_whatsApp_button{
-        margin: 20px 0px 20px 300px;
-    }*/
 
-
+ .k_partners h2{
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #1E4482;
+  padding-bottom: 15px;
+ }
+ .k_partners_block{
+  background-color: #F0F0F0;
+  padding: 15px 15px 35px 15px;
+  margin-bottom: 15px;
+ }
+ .k_partners_logo{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+ }
+ .k_partners_block h3{
+  padding-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+ }
+ .k_partners_block h1{
+  text-align: center;
  }
