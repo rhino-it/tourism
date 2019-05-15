@@ -55,6 +55,7 @@ class Pages extends CI_Controller {
 		$this->load->view('footer_view');
 	}
 
+
 	public function tours($id=0){
 		$this->load->model('Get_model');
 		$this->load->view('head_view');
@@ -62,6 +63,7 @@ class Pages extends CI_Controller {
 		$this->load->view('tour_view');
 		$this->load->view('footer_view');
 	}
+
 
 
 }	
