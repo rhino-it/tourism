@@ -55,6 +55,7 @@ class Pages extends CI_Controller {
 		$this->load->view('news_page_view');
 		$this->load->view('footer_view');
 	}
-
+		public function sadsds()	{
+	}
 
 }	
