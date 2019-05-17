@@ -1,48 +1,84 @@
-<!-- Title page -->
-	<section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/pik_lenina_panorama.jpg');?>);">
-		<div class="container size-h-3 p-tb-30 flex-col-c-c">
-			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
-			Наша компания
-			</h2>
+<!-- Title page  -->
+<section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/visa2.jpg');?>);">
+	<div class="container size-h-3 p-tb-30 flex-col-c-c">
+		<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
+			Визовая поддержка
+		</h2>
 
-			<div class="flex-wr-c-c">
-				<a href="<?php echo base_url(); ?>" class="breadcrumb-item">
-					Главная
-				</a>
+		<div class="flex-wr-c-c">
+			<a href="<?php echo base_url(); ?>" class="breadcrumb-item">
+				Главная
+			</a>
 
-				<span class="breadcrumb-item">
-					О компании
-				</span>
-			</div>
+			<span class="breadcrumb-item">
+				Виза
+			</span>
 		</div>
-	</section>
+	</div>
+</section>
 
-	<!--  -->
-	<section class="bg-0 p-t-92 p-b-60">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-sm-12 col-md-12 p-b-35">
-					<!-- Title section -->
-					<div class="flex-col-c-s p-b-35">
-						<h3 class="t1-b-1 cl-3 m-b-11">
-							Туристическая компания Памир Тур 
-						</h3>
+<!--  -->
+<section class="bg-0 p-t-92 p-b-60">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-sm-12 col-md-12 p-b-35">
+				<!-- Title section -->
+				<div class="flex-col-c-s p-b-35">
+					<h3 class="t1-b-1 cl-3 m-b-11">
+						Визовая поддержка 
+					</h3>
 
-						<div class="size-a-2 bg-3"></div>
-					</div>
+					<div class="size-a-2 bg-3"></div>
+				</div>
 
-					<div class="p-r-20 p-r-0-sr767">
-						<p class="t1-s-2 cl-6 m-b-10">
-							<span class="t1-s-5 cl-3">Наше туристическое</span> агентство уже не первый год занимает лидирующие позиции на рынке в Кыргызстане. Мы всегда открыты для ваших пожеланий и готовы предложить множество свежих идей для незабываемого отдыха. Наши цены и уровень обслуживания вас приятно удивят!
+				<div class="p-r-20 p-r-0-sr767 k_visa_text">
+					<p class="t1-s-2 cl-6 m-b-10 ">
+						<!-- <span class="t1-s-5 cl-3">Наше туристическое</span> -->
+						<p>
+							Вы собрались в деловую поездку или на отдых за границу? «Pamirtour, Osh»
+							с удовольствием проконсультирует и возьмет на себя обязанности в оформлении
+							туристических и деловых виз в любую страну мира. <br>
+							Для Вас будут
+							организованы:
 						</p>
+						<ul>
+							<li>
+								подготовка к персональному интервью в консульстве, посольстве, либо
+								визовом центре;
+							</li>
+							<li>
+								надлежащий пакет документов для оформления визы;
+							</li>
+							<li>
+								запись на интервью ON-LINE и по телефону;
+							</li>
+							<li>
+								доставка паспортов с полученными визами в Ваш офис;
+							</li>
+							<li>
+								оформление полиса обязательного медицинского страхования.
+							</li>
+						</ul>
+						<p>
+							Если вы планируете пригласить друзей или деловых партнеров на территорию
+							Кыргызстана, мы с радостью и в короткие сроки поможем оформить все
+							соответствующие документы, разрешающие пребывание в нашей стране.
+							Пожалуйста, помните, что требования по оформлению виз/пошлины и плата за
+							услуги могут меняться без предварительного оповещения. В процессе получения
+							виз, если это необходимо, в посольствах могут потребоваться дополнительные
+							документы или информация. Мы уделяем особое внимание всем изменениям в
+							процедурах оформления виз и визовой поддержки и всегда готовы предоставить
+							Вам необходимую услугу.
+						</p>
+					</p>
 
-						<p class="t1-s-2 cl-6 m-b-10">
+						<!-- <p class="t1-s-2 cl-6 m-b-10">
 							<span class="t1-s-5 cl-3">Наше турагенство в Оше</span> специализируются на организации корпоративных и индивидуальных туров. Мы готовы предложить вам множество интересных идей для отдыха на море, а также экскурсионные и горнолыжные туры по доступным ценам. Также к вашим услугам туры в экзотические страны, программу для которых мы разработаем в соответствии с вашими личными предпочтениями и пожеланиями.
-						</p>
+						</p> -->
 					</div>
 				</div>
 
-	
+
 			</div>
 		</div>
 	</section>
@@ -450,4 +486,4 @@
 
 			</div>
 		</div>
-	</section> -->
+	</section>

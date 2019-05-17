@@ -240,7 +240,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 [ Top bar ]*/
 .top-bar {
   height: 50px;
-  background-color: #8C0202;
+  background-color: #DB2D14;
   overflow: hidden;
 }
 
@@ -368,7 +368,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 .menu-desktop .main-menu > li > a {
   font-family: Roboto-Bold;
   font-size: 16px;
-  color: #C70A00;
+  color: #DB2D14;
   padding: 5px 20px;
 
   transition: all 0.2s;
@@ -463,7 +463,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
   font-family: Roboto-Regular;
   font-size: 15px;
   line-height: 1.5;
-  color: #C70A00;
+  color: #DB2D14;
 
   display: block;
   padding: 10px 20px; 
@@ -493,7 +493,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 /*---------------------------------------------*/
 .menu-desktop .main-menu > li:hover > a {
   text-decoration: none;
-  color: #D02438;
+  color: #DB2D14;
 }
 
 .menu-desktop .main-menu > li:hover > .sub-menu {
@@ -809,7 +809,7 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 #rev_slider_3 .btn1,
 #rev_slider_2 .btn1,
 #rev_slider_1 .btn1 {
-  background-color: #D00018;
+  background-color: #DB2D14;
   color: #fff;
 }
 
@@ -937,8 +937,8 @@ Input, textarea : 16px/1.5 'Roboto-Ragular', Arial, sans-serif;
 }
 
 .rs1-select2 .select2-container .select2-results__option--highlighted[aria-selected] {
-  background: #16a086;
-  color: white;
+  background: #F0F0F0;
+  color: #1E4482;
 }
 
 .rs1-select2 .select2-results__options {
@@ -1817,7 +1817,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .block2-content {
   height: 100%;
-  background-color: #527AB8;
+  background-color: #DB2D14;
   padding: 35px 30px;
 
   -webkit-transform: translateY(calc(100% - 50px));
@@ -2113,7 +2113,7 @@ input.num-product::-webkit-inner-spin-button {
 .cl-0 {color: #fff;}
 .cl-1 {color: #111;}
 .cl-2 {color: #222;}
-.cl-3 {color: #C70A00;}
+.cl-3 {color: #DB2D14;}
 .cl-4 {color: #444;}
 .cl-5 {color: #555;}
 .cl-6 {color: #666;}
@@ -2514,7 +2514,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg-9 {background-color: #999;}
 .bg-101 {background-color: #072032;}
 .bg-10g {background-color: #26C281;}
-.bg-10 {background-color: #D02438;}
+.bg-10 {background-color: #DB2D14;}
 .bg-11 {background-color: none;}
 .bg-12 {background-color: #26C281;}
 .bg-12y {background-color: #F8961F;}
@@ -3204,4 +3204,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
  }
  .k_partners_block h1{
   text-align: center;
+ }
+ .k_visa_text li{
+  list-style-type: disc;
+  list-style-position: inside;
+ }
+ .k_blueborder{
+  border: 1px solid #1E4482;
+ }
+ .k_tour_name_in_contact_page{
+  font-size: 1.2em;
+  font-weight: bold;
  }
