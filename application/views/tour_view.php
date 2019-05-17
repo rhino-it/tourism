@@ -1,10 +1,48 @@
 	<!-- Tours -->
+
+	  <section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/wolrd.jpg');?>);">
+
+
+		<div class="container size-h-3 p-tb-30 flex-col-c-c">
+			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
+				 Туры в другие страны
+			</h2>
+			<div class="flex-wr-c-c">
+				<a href="<?php echo base_url(); ?>" class="breadcrumb-item">
+					Главная 
+				</a>
+
+				<span class="breadcrumb-item">
+					Туры 
+				</span>
+				<span class="breadcrumb-item">
+					Туры в другие страны
+				</span>
+			</div>
+		</div>
+	</section>
+
+
+
 	<section class="bg-0 p-t-40" style="position: relative;">
 		<div class="container">
 			
-			<div class="k_aviabilety">ТУРЫ В ДРУГИЕ СТРАНЫ</div>
+			<!-- <div class="k_aviabilety">ТУРЫ В ДРУГИЕ СТРАНЫ</div> -->
 			<!-- <div style="text-align: center;">Куда ты хочешь поехать?</div> -->
+			
+					<!-- Title section -->
+					<div class="flex-col-c-s p-b-35">
+						<h3 class="t1-b-1 cl-3 m-b-11">
+							Куда вы хотите поехать?
+						</h3>
+
+
+						<div class="size-a-2 bg-3"></div>
+					</div>
+		
 			<div class="row">
+			
+
 			<div class="col-sm-6 p-b-25 ">
 				<div class="rs1-select2 bor9 bg0 k_blueborder">
 					<select class="js-select2" name="subject">

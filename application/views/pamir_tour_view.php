@@ -1,5 +1,28 @@
 	<!-- Tours -->
-	<section class="bg-0 p-t-40 p-b-60" style="position: relative;">
+
+
+	 <section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/pamir.jpg');?>);">
+
+
+		<div class="container size-h-3 p-tb-30 flex-col-c-c">
+			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
+				 Туры в Памир Алай
+			</h2>
+			<div class="flex-wr-c-c">
+				<a href="<?php echo base_url(); ?>" class="breadcrumb-item">
+					Главная 
+				</a>
+
+				<span class="breadcrumb-item">
+					Туры 
+				</span>
+				<span class="breadcrumb-item">
+					Туры в Памир Алай
+				</span>
+			</div>
+		</div>
+	</section>
+	<!-- <section class="bg-0 p-t-40 p-b-60" style="position: relative;">
 		<div class="container">
 			
 			<div class="k_aviabilety">ТУРЫ В ПАМИР-АЛАЙ</div>
@@ -7,10 +30,20 @@
 			
 
 		</div>
-	</section>
+	</section> -->
 	<!-- Countries -->
-	<section>
+	<section class="bg-0 p-t-40" style="position: relative;">
 		<div class="container">
+
+			<!-- Title section -->
+					<div class="flex-col-c-s p-b-35">
+						<h3 class="t1-b-1 cl-3 m-b-11">
+							По земле кочевников
+						</h3>
+
+
+						<div class="size-a-2 bg-3"></div>
+					</div>
 			
 			<div class="bg-0 p-b-50">
 				<div class=" p-rl-15-sr1199">
