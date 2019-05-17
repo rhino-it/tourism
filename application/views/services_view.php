@@ -28,8 +28,6 @@
 
 							<p class="t1-s-2 cl-13">
 							Пик Ленина — горная вершина Чон-Алайского хребта на границе Киргизии и Таджикистана. Один из «семитысячников» — высочайших вершин бывшего СССР. Одна из высочайших вершин Центральной
-
-
 							</p>
 						</div>
 					</div>
@@ -79,7 +77,7 @@
 				</div>
 			</div>
 		</div>
-		<div style="background-image: url(<?php echo base_url().'assets/images/divider_5.png';?>); width: 100%;
+		<div style="background-image: url(<?php echo base_url().'assets/images/divider_4.png';?>); width: 100%;
 height: 100px; background-repeat: no-repeat; position: absolute; bottom: -42px;
 left: 0;"></div>
 	</section>

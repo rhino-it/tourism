@@ -56,7 +56,7 @@
 				<div class="limiter-menu-desktop container">					
 					<!-- Logo desktop -->		
 					<div class="logo">
-						<a href="index.html"><img src="<?php echo base_url().'assets/images/logo-notext.png';?>" alt="LOGO"></a>
+						<a href="<?php echo base_url();?>"><img src="<?php echo base_url().'assets/images/logo-notext.png';?>" alt="LOGO"></a>
 					</div>
 
 					<!-- Menu desktop -->
@@ -70,12 +70,12 @@
 
 							<li>
 
-								<a href="<?php echo base_url('pages/tours'); ?>"> <img src="<?php echo base_url().'assets/images/palm-tree.png';?>"> ТУРЫ</a>
+								<a href="#"> <img src="<?php echo base_url().'assets/images/palm-tree.png';?>"> ТУРЫ</a>
 
 
 								<ul class="sub-menu">
 										<li>
-											<a href="#">ТУРЫ В ПАМИР-АЛАЙ</a>
+											<a href="<?php echo base_url('pages/pamir_tours'); ?>">ТУРЫ В ПАМИР-АЛАЙ</a>
 											<!-- <ul class="sub-menu">
 												<li><a href="services-detail-01.html">ГРУППОВЫЕ ТУР</a></li>
 												<li><a href="services-detail-02.html">ОР</a></li>
@@ -83,7 +83,7 @@
 												<li><a href="services-detail-03.html">ОРО</a></li>
 											</ul> -->
 									</li>
-									<li><a href="services-list.html">ТУРЫ В ДРУГИЕ СТРАНЫ</a>
+									<li><a href="<?php echo base_url('pages/tours'); ?>">ТУРЫ В ДРУГИЕ СТРАНЫ</a>
 											<!-- <ul class="sub-menu">
 												<li><a href="services-detail-01.html">Египет</a></li>
 												<li><a href="services-detail-02.html">Мальдивы</a></li>
@@ -99,19 +99,19 @@
 
 								<a href="<?php echo base_url('pages/airticket'); ?>"><i class="fa fa-plane" aria-hidden="true"></i> АВИАБИЛЕТЫ</a>
 
-								<ul class="sub-menu">
+								<!-- <ul class="sub-menu">
 									<li><a href="projects-grid.html">МОСКВА</a></li>
 									<li><a href="projects-grid.html">ОШ</a></li>
 							
-								</ul>
+								</ul> -->
 							</li>
 
 							<li>
-								<a href="shop-grid.html"><i class="fa fa-user" aria-hidden="true"></i> КЛИЕНТАМ</a>
+								<a href="<?php echo base_url('pages/for_clients'); ?>"><i class="fa fa-user" aria-hidden="true"></i> КЛИЕНТАМ</a>
 							</li>
 							
 							<li>
-								<a href="shop-grid.html"><i class="fa fa-address-card-o" aria-hidden="true"></i> ВИЗА</a>
+								<a href="<?php echo base_url('pages/visa'); ?>"><i class="fa fa-address-card-o" aria-hidden="true"></i> ВИЗА</a>
 							</li>
 							
 							<li>
@@ -121,11 +121,11 @@
 							<li>
 
 								<a href="http://pamir.kg/pages/contact"><i class="fa fa-address-card" aria-hidden="true"></i> КОНТАКТЫ</a>
-								<ul class="sub-menu">
+								<!-- <ul class="sub-menu">
 
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>
 									<li><a href="home-02.html">ЛОРОР</a></li>
-								</ul> 
+								</ul>  -->
 							</li>
 						</ul>
 					</div>						
