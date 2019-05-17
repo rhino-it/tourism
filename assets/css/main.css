@@ -2272,6 +2272,13 @@ input.num-product::-webkit-inner-spin-button {
   font-size: 30px;
   line-height: 1.2;
 }
+.t1-b-0 {
+  font-family: Roboto-Bold;
+  font-size: 1.6em;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: #666666;
+}
 
 
 
@@ -3143,10 +3150,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
   color: #fff;
   margin: 20px 0px 20px 0px;
   transition: 0.3s;
+/*  animation-duration: 3s;
+  animation-name: slidein;*/
  }
+/* @keyframes slidein {
+  from {
+     color: #fff;
+  box-shadow: 0 0 3px 4px #fff; 
+  }
+
+  to {
+    color: #fff;
+  box-shadow: 0 0 3px 4px grey;
+  }
+}*/
   .k_whatsApp_button:hover{
   color: #fff;
-  box-shadow: 0 0 3px 4px #fff;
+  box-shadow: 0 0 3px 4px grey;
   }
  @media screen and (max-width: 850px) {
     .k_plane{
@@ -3177,7 +3197,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
       font-size: 1em;
      }
  }
- @media screen and (min-width: 996px) {
+/* @media screen and (min-width: 996px) {
     .k_ticket_script{
       width: 70%;
       left: 0;
@@ -3186,7 +3206,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
         margin: 20px 0px 20px 300px;
     }
 
- }
+ }*/
 
 #er_hawk_bg{
   position: relative;
