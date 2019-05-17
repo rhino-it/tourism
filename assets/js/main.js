@@ -383,3 +383,51 @@
 
 
 })(jQuery);
+
+
+
+
+
+// hawk scroll begin 
+    
+var 
+    er_pos_box         = $("#er_hawk_bg").offset(),
+    er_pos_x           = 0,
+    er_pos_y           = 40,
+    er_last_Scroll_Top = 0;
+
+$("#er_hawk_1").css("transform", "rotate(-10deg) translateX(" + er_pos_x + "px) translateY(" + er_pos_y + "px)");
+
+window.onscroll = function() {
+  var er_scrolled = $(this).scrollTop();
+  if ((er_scrolled > er_pos_box.top - 550) && (er_scrolled < er_pos_box.top + 650)) {
+    if (er_scrolled > er_last_Scroll_Top) {
+        // down scroll
+        er_pos_x = er_pos_x + 10;
+        er_pos_y = er_pos_y - 0.7;
+        $("#er_hawk_1").css("transform", "rotate(-10deg) translateX(" + er_pos_x + "px) translateY(" + er_pos_y + "px)");
+    }
+    else{
+        // up scroll
+        er_pos_x = er_pos_x - 12;
+        er_pos_y = er_pos_y + 0.7;
+        $("#er_hawk_1").css("transform", "rotate(-10deg) translateX(" + er_pos_x + "px) translateY(" + er_pos_y + "px)");
+    }
+    er_last_Scroll_Top = er_scrolled;
+  }
+}
+
+// hawk scroll end
+
+
+
+
+
+
+// var timerId = setInterval(function() {
+//   console.log( "тик" );
+// }, 5000);
+// setTimeout(function() {
+//   clearInterval(timerId);
+//   console.log( 'стоп' );
+// }, 0);

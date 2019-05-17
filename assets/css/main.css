@@ -3183,5 +3183,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
         margin: 20px 0px 20px 300px;
     }
 
-
  }
+
+#er_hawk_bg{
+  position: relative;
+  height: 250px;
+  display: block;
+}
+#er_hawk_bg img{
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  z-index: 100;
+}
