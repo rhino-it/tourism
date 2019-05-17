@@ -64,12 +64,15 @@
 						<ul class="main-menu respon-sub-menu">
 							<li>
 
-								<a href="<?php echo base_url(); ?>">ГЛАВНАЯ</a>
+								<a href="<?php echo base_url(); ?>"><i class="fa fa-home" aria-hidden="true"></i> ГЛАВНАЯ</a>
 
 							</li>
 
 							<li>
-								<a href="services-list.html">ТУРЫ</a>
+
+								<a href="<?php echo base_url('pages/tours'); ?>"> <img src="<?php echo base_url().'assets/images/palm-tree.png';?>"> ТУРЫ</a>
+
+
 								<ul class="sub-menu">
 										<li>
 											<a href="#">ТУРЫ В ПАМИР-АЛАЙ</a>
@@ -93,32 +96,36 @@
 							</li>
 
 							<li>
-								<a href="<?php echo base_url('pages/order'); ?>">АВИАБИЛЕТЫ</a>
+
+								<a href="<?php echo base_url('pages/airticket'); ?>"><i class="fa fa-plane" aria-hidden="true"></i> АВИАБИЛЕТЫ</a>
+
 								<ul class="sub-menu">
 									<li><a href="projects-grid.html">МОСКВА</a></li>
-									<li><a href="projects-grid.html">ОШШ</a></li>
-									<li><a href="projects-grid.html">РОРО</a></li>
+									<li><a href="projects-grid.html">ОШ</a></li>
+							
 								</ul>
 							</li>
 
 							<li>
-								<a href="shop-grid.html">КЛИЕНТАМ</a>
+								<a href="shop-grid.html"><i class="fa fa-user" aria-hidden="true"></i> КЛИЕНТАМ</a>
 							</li>
 							
 							<li>
-								<a href="shop-grid.html">ВИЗА</a>
+								<a href="shop-grid.html"><i class="fa fa-address-card-o" aria-hidden="true"></i> ВИЗА</a>
 							</li>
 							
 							<li>
-								<a href="http://pamir.kg/pages/about">О КОМПАНИИ</a>
+								<a href="http://pamir.kg/pages/about"><i class="fa fa-building-o" aria-hidden="true"></i> О КОМПАНИИ</a>
 							</li>
 
 							<li>
-								<a href="http://pamir.kg/pages/contact">КОНТАКТЫ</a>
+
+								<a href="http://pamir.kg/pages/contact"><i class="fa fa-address-card" aria-hidden="true"></i> КОНТАКТЫ</a>
 								<ul class="sub-menu">
+
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>
 									<li><a href="home-02.html">ЛОРОР</a></li>
-								</ul>
+								</ul> 
 							</li>
 						</ul>
 					</div>						
