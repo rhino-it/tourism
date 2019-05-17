@@ -3177,6 +3177,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
       font-size: 1em;
      }
  }
+ @media screen and (min-width: 996px) {
+    .k_ticket_script{
+      width: 70%;
+      left: 0;
+    }
+    .k_whatsApp_button{
+        margin: 20px 0px 20px 300px;
+    }
+
+ }
+
+#er_hawk_bg{
+  position: relative;
+  height: 250px;
+  display: block;
+}
+#er_hawk_bg img{
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  z-index: 100;
+}
 
  .k_partners h2{
   text-align: center;

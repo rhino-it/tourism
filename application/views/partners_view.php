@@ -44,7 +44,11 @@ left: 0;"></div>
 						<img class="hov-img2 trans-02 max-s-full" src="images/icons/partner-05.png" alt="IMG">
 					</a>
 				</div> -->
-				<div style="height: 250px;"></div>
+				<div class="col-md-12">
+					<div id="er_hawk_bg">
+						<img id="er_hawk_1" width="100px" src="<?php echo base_url().'assets/images/hawk_1.png';?>" alt="">
+					</div>					
+				</div>
 			</div>
 		</div>
 	</section>
