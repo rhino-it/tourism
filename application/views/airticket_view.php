@@ -1,5 +1,5 @@
 	<!-- Airticket -->
-	  <section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url('assets/images/ticket2.jpg');?>);">
+	  <section class="bg-img1 kit-overlay3" style="background-image: url(<?php echo base_url('assets/images/ticket2.jpg');?>);">
 
 
 		<div class="container size-h-3 p-tb-30 flex-col-c-c">
