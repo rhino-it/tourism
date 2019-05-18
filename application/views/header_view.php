@@ -27,6 +27,13 @@
 							<span>Пон-Суб с 09:00  - до 17:00 </span>
 						</div>					
 					</div>
+					<!-- language -->
+					<section>
+						<select class="form-control" id="langid">
+							<option selected="" value="1">RU</option>
+							<option value="1">EN</option>
+						</select>
+					</section>
 
 					<div class="text-nowrap">
 						<a href="#" class="fs-16 cl-13 hov-link2 trans-02 m-l-15">
@@ -115,12 +122,12 @@
 							</li>
 							
 							<li>
-								<a href="http://pamir.kg/pages/about"><i class="fa fa-building-o" aria-hidden="true"></i> О КОМПАНИИ</a>
+								<a href="<?php echo base_url('pages/about'); ?>"><i class="fa fa-building-o" aria-hidden="true"></i> О КОМПАНИИ</a>
 							</li>
 
 							<li>
 
-								<a href="http://pamir.kg/pages/contact"><i class="fa fa-address-card" aria-hidden="true"></i> КОНТАКТЫ</a>
+								<a href="<?php echo base_url('pages/contact'); ?>"><i class="fa fa-address-card" aria-hidden="true"></i> КОНТАКТЫ</a>
 								<!-- <ul class="sub-menu">
 
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>
