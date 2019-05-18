@@ -2565,7 +2565,7 @@ input.num-product::-webkit-inner-spin-button {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #05233a99;
+  background-color: #05233a;
 }
 .layer {
     background-color: rgba(225,225,225, 1);
@@ -2577,6 +2577,36 @@ input.num-product::-webkit-inner-spin-button {
 .kit-overlay1::before {opacity: 0.9;}
 .kit-overlay2::before {opacity: 0.8;}
 
+/*---------------------------------*/
+/*added by Rhino K*/
+.kit-overlay3,
+.kit-overlay4 {
+  position: relative;
+  z-index: 1;
+}
+
+.kit-overlay3::before,
+.kit-overlay4::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #05233a;
+}
+.layer {
+    background-color: rgba(225,225,225, 1);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.kit-overlay3::before {opacity: 0.6;}
+.kit-overlay4::before {opacity: 0.8;}
+/*added by Rhino K end*/
 /*---------------------------------------------*/
 .kit-list1 {
   display: -webkit-box;
@@ -3260,3 +3290,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
   font-weight: bold;
  }
 
+.k_select_lang{
+  background-color: #DB2D14 !important;  
+  border: 1px solid #fff !important; 
+  color: #fff !important; 
+  padding: 0px 5px !important; 
+  height: 25px !important;
+}

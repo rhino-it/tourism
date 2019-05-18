@@ -1,4 +1,4 @@
-<section class="bg-img1 kit-overlay1" style="background-image: url(<?php echo base_url().'assets/images/bg-07.jpg';?>);">
+<section class="bg-img1 kit-overlay3" style="background-image: url(<?php echo base_url().'assets/images/bg-07.jpg';?>);">
 		<div class="container size-h-3 p-tb-30 flex-col-c-c">
 			<h2 class="t1-b-1 text-uppercase cl-0 txt-center m-b-25">
 				Company News
