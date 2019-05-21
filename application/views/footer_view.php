@@ -11,7 +11,7 @@ left: 0;"></div>
 					<div class="col-sm-8 col-md-4 col-lg-4 p-b-20">
 						<div class="size-h-1 flex-s-e p-b-6 m-b-18">
 							<a href="#">
-								<img class="max-s-full" src="<?php echo base_url().'assets/images/logo-notext.png';?>" alt="IMG">
+								<img class="max-s-full" src="<?php echo base_url().'assets/logo/logo2.svg';?>" alt="IMG">
 							</a>
 						</div>
 
