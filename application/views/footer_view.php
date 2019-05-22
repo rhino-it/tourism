@@ -187,8 +187,45 @@ left: 0;"></div>
 				</span>
 			</div>
 		</div>
+
+
+
+		<!-- keyframe call  -->
+		<div class="k_call">
+			
+			<div class="k_phone">
+				<a href="tel:+996551336944">
+					<i class="fa fa-mobile" aria-hidden="true"></i>
+				</a>
+			</div>
+			<div class="k_whatsapp">
+				<a href="https://api.whatsapp.com/send?phone=996551336944&amp;text=Здравствуйте,%20pamir.kg!%20Хочу%20забронировать%20авиабилет">
+					<i class="fa fa-whatsapp" aria-hidden="true"></i>
+				</a>
+			</div>
+
+		</div>
+
+
+
+		<!-- keyframe call end  -->
+
 	
 	</footer>
+		<script type="text/javascript">
+			k_call();
+  function k_call() {
+  	var btna = document.querySelector('.k_call');
+      if (window.pageYOffset >= 0) {
+      btna.style.right = '35px';
+    } 
+     if (window.pageYOffset >= 0 && window.innerWidth < 575) {
+      btna.style.right = '10px';
+    } 
+}
+
+	</script>
+
 
 
 <!--===============================================================================================-->	

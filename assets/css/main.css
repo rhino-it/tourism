@@ -3384,3 +3384,76 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
    /*color: #fff;*/
 }
 
+
+
+
+.k_call{
+    position: fixed;
+    opacity: 1;
+    right: -20%;
+    top: 75%;
+    cursor: pointer;
+    transition: 2s;
+    z-index: 10000;
+    align-items: center;
+}
+.k_phone{
+  margin-bottom: 20px;
+  /*z-index: 10001;
+   animation-duration: 3s;
+  animation-name: phone;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  border: 1px solid red;
+  padding: 0px;
+  border-radius: 50%;*/
+}
+.k_phone a{
+    background-color: #1774EB;
+    padding: 10px  20px 10px  20px;
+    border-radius: 50%;
+    color: #fff;  
+    font-size: 2em;
+  
+}
+
+@keyframes phone{
+  /*from {
+    padding: inherit;
+  }
+
+  to {
+    padding: 10px  20px 10px  20px;
+  }
+    75% {
+   
+  }*/
+}
+.k_whatsapp a{
+    background-color: #48C358;
+    padding: 10px  15px 10px  15px;
+    font-size: 1.8em;
+    border-radius: 50%;
+    color: #fff;  
+   animation-duration: 3s;
+  animation-name: whatsapp;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes whatsapp{
+  /*from {
+    margin-left: 100%;
+    width: 50%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 10%;
+  }
+    75% {
+    font-size: 100%;
+    margin-left: 50%;
+    width: 20%;
+  }*/
+}
