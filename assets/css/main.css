@@ -3418,42 +3418,145 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
 }
 
 @keyframes phone{
-  /*from {
-    padding: inherit;
-  }
-
-  to {
-    padding: 10px  20px 10px  20px;
-  }
-    75% {
-   
-  }*/
+ 
+}
+.k_whatsapp {
+  border: 1px solid transparent;
+  padding: 6px  0px;
+  border-radius: 50%;
+ /* animation-duration: 2s;
+  animation-name: whatsapp_border;
+  animation-iteration-count: infinite;*/
+   position: relative;
+}
+.k_whatsapp:before {
+  content: "";
+  position: absolute;
+  border: 1px solid green;
+  padding: 26px 28px;
+  border-radius: 50%;
+  animation-duration: 1.5s;
+  animation-name: whatsapp_border;
+  animation-iteration-count: infinite;
+  
+  top: -1px;
+  left: -1px;
 }
 .k_whatsapp a{
-    background-color: #48C358;
-    padding: 10px  15px 10px  15px;
-    font-size: 1.8em;
-    border-radius: 50%;
-    color: #fff;  
-   animation-duration: 3s;
+  background-color: #48C358;
+  padding: 10px  15px 10px  15px;
+  font-size: 1.8em;
+  border-radius: 50%;
+  color: #fff;  
+  animation-duration: 3s;
   animation-name: whatsapp;
   animation-iteration-count: infinite;
-  animation-direction: alternate;
+  /*animation-direction: alternate;*/
+  border: 1px solid #48C358;
+  box-shadow: 0 0 0 3px rgba(72, 195, 88, 0.4); 
 }
 
-@keyframes whatsapp{
-  /*from {
-    margin-left: 100%;
-    width: 50%; 
+@keyframes whatsapp_border{
+  from {
+    border: 1px solid #48C358;
+  padding: 26px 28px;
+  border-radius: 50%;
+   top: -1px;
+  left: -1px;
+    
+  }
+  to {
+    border: 1px solid transparent;
+    /*border: 1px solid #48C358;*/
+  padding: 41px 45px;
+  border-radius: 50%;
+   top: -16px;
+  left: -18px;
+  }
+}
+   
+/*@keyframes whatsapp{
+  from {
+    box-shadow: 0 0 0 0px rgba(72, 195, 88, 0.9);
+  
   }
 
   to {
-    margin-left: 0%;
-    width: 10%;
+    box-shadow: 0 0 0 10px rgba(72, 195, 88, 0);
+    
+  }*/
+    
+  /*0% {
+    -webkit-box-shadow: 0 0 0 0px rgba(72, 195, 88, 0.9);
   }
-    75% {
-    font-size: 100%;
-    margin-left: 50%;
-    width: 20%;
+  70% {
+      -webkit-box-shadow: 0 0 0 10px rgba(72, 195, 88, 0);
+  }
+  100% {
+      -webkit-box-shadow: 0 0 0 0px rgba(72, 195, 88, 0);
   }*/
 }
+
+@media screen and (max-width:576px) {
+  .k_call{
+    top: 70%;
+  }
+
+}
+@media screen and (min-width: 1024px) {
+  .k_phone{
+    display: none;
+  }
+  .k_call{
+    top: 85%;
+  }
+  }
+
+
+
+
+
+
+
+
+
+/*.pulsar {
+  margin:100px;
+  display: block;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #cca92c;
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(204,169,44, 0.4);
+  animation: pulse 2s infinite;
+}
+.pulsar:hover {
+  animation: none;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+      -webkit-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+  }
+  100% {
+      -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+      -moz-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+      box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+  }
+  100% {
+      -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+      box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}*/

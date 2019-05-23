@@ -1,5 +1,6 @@
 
 	<!-- Footer -->
+	<span class="pulsar"></span>
 	<footer>
 		<div class="parallax100 kit-overlay1 p-b-10 p-t-90" style="background-image: url(<?php echo base_url().'assets/images/footer3.jpg';?>); position: relative;">
 	<div style="background-image: url(<?php echo base_url().'assets/images/divider-top.png';?>); width: 100%;
