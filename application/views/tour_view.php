@@ -68,7 +68,7 @@
 		<div class="container">
 			
 			<div class="bg-0 p-b-50">
-				<div class=" p-rl-15-sr1199">
+				<!-- <div class=" p-rl-15-sr1199"> -->
 
 					<div class="row isotope-grid">
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item business-n">
@@ -241,7 +241,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				<!-- </div> -->
 
 			</div>
 		</div>
