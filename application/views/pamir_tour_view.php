@@ -54,7 +54,7 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item business-n training-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16 k_background_block_pamir">
-									<div class="k_background_pamir" style="background: url('<?php echo base_url().'assets/images/3.jpg';?>'); "></div>
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>'); "></div>
 									<!-- <img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG"> -->
 
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">

@@ -9,19 +9,21 @@
 		<div class="layer"></div>
 		<div class="container">
 			<div class="row justify-content-center justify-content-md-start">
-				<div class="col-sm-8 col-md-4 col-lg-4 p-b-20">
-					<div class=" flex-s-e p-b-6 m-b-18">
-						<a href="#">
-							<img class="max-s-full" src="<?php echo base_url().'assets/logo/logo2.svg';?>" alt="IMG">
-						</a>
-					</div>
+				    <div class="col-sm-8 col-md-4 col-lg-4 p-b-20">
+					 <div class=" flex-s-e p-b-6 m-b-18">
+						<a href="#" style="background-image: url(<?php echo base_url().'assets/logo/logo2.svg';?>);" class="k_footer_logo" >
+							
 
-					<div>
+							<!-- // <img class="max-s-full" src="<?php echo base_url().'assets/logo/logo2.svg';?>" alt="IMG"> -->
+						</a>
+					 </div>
+
+					 <div>
 							<!-- <p class="t1-s-2 cl-13 p-b-17">
 								On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized   the charms of pleasure of.
 							</p> -->
 
-							<div class="flex-wr-s-c p-t-10">
+							<div class="flex-wr-s-c p-t-10 k_align_center">
 								<a href="#" class="flex-c-c size-a-7 borad-50per bg-11 fs-16 cl-0 hov-btn2 trans-02 m-r-10">
 									<i class="fa fa-facebook"></i>	
 								</a>
@@ -185,39 +187,39 @@
 				<div class="container txt-center p-tb-15">
 					<span >
 						<a class="t1-s-2 cl-14" href="http://it-academy.oshsu.kg">It Academia OshSU 2019
-      <?php
-      $data_05_26=date("Y");
-      if($data_05_26 > '2019') {
-      echo '-'.date("Y");}
-      ?>
-      </a>   
-					</span>
+							<?php
+							$data_05_26=date("Y");
+							if($data_05_26 > '2019') {
+								echo '-'.date("Y");}
+								?>
+							</a>   
+						</span>
+					</div>
 				</div>
-			</div>
 
 
 
-			<!-- keyframe call  -->
-			<div class="k_call">
-				<div class="k_phone">
-					<a href="tel:+996551336944">
-						<i class="fa fa-mobile" aria-hidden="true"></i>
-					</a>
+				<!-- keyframe call  -->
+				<div class="k_call">
+					<div class="k_phone">
+						<a href="tel:+996551336944">
+							<i class="fa fa-mobile" aria-hidden="true"></i>
+						</a>
+					</div>
+					<div class="k_whatsapp">
+						<a href="https://api.whatsapp.com/send?phone=996774353744&amp;text=Здравствуйте,%20pamir.kg!%20Хочу%20забронировать%20авиабилет">
+							<i class="fa fa-whatsapp" aria-hidden="true"></i>
+						</a>
+					</div>
 				</div>
-				<div class="k_whatsapp">
-					<a href="https://api.whatsapp.com/send?phone=996774353744&amp;text=Здравствуйте,%20pamir.kg!%20Хочу%20забронировать%20авиабилет">
-						<i class="fa fa-whatsapp" aria-hidden="true"></i>
-					</a>
-				</div>
-			</div>
-			<!-- keyframe call end  -->
+				<!-- keyframe call end  -->
 
 
-		</footer>
-		<script type="text/javascript">
-			var btn = document.querySelector('.k_call');    /* K for devices*/
-			var btn_phone = document.querySelector('.k_phone');    /* K for desctops*/
-			
+			</footer>
+			<script type="text/javascript">
+				var btn = document.querySelector('.k_call');    /* K for devices*/
+				var btn_phone = document.querySelector('.k_phone');    /* K for desctops*/
+
 				window.onscroll = mag;
 				function mag() {
 					var windowH = $(window).height()/2;
