@@ -3553,15 +3553,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
 }
 .k_align_center a{
 display: inline-block;
-width: auto;
 }
-.k_align_center{
+/*.k_align_center{
   text-align: center;
-}
+  display: inline-block;
+  width: 100%;
+}*/
 @media screen and (max-width:576px) {
   .k_footer_logo{
       background-position: center;
   }
+  .k_align_center{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
 }
 
 

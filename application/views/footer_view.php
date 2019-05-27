@@ -19,7 +19,7 @@
 					 </div>
 
 					 <div>
-							<!-- <p class="t1-s-2 cl-13 p-b-17">
+						<!-- 	<p class="t1-s-2 cl-13 p-b-17">
 								On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized   the charms of pleasure of.
 							</p> -->
 
@@ -47,15 +47,15 @@
 						</div>
 					</div>
 
-					<div class="col-sm-8 col-md-4 col-lg-3 p-b-20">
+					<div class="col-sm-8 col-md-4 col-lg-3 p-b-20 ">
 						<div class=" flex-s-e m-b-18">
-							<h4 class="t1-m-3 text-uppercase cl-0">
+							<h4 class="t1-m-3 text-uppercase cl-0 k_align_center">
 								Контакты
 							</h4>
 						</div>
 
 						<ul>
-							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9">
+							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9 k_align_center">
 								<span class="size-w-3">
 									<i class="fa fa-home" aria-hidden="true"></i>
 								</span>
@@ -65,7 +65,7 @@
 								</span>
 							</li>
 
-							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9">
+							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9 k_align_center">
 								<span class="size-w-3">
 									<i class="fa fa-envelope-o" aria-hidden="true"></i>
 								</span>
@@ -75,7 +75,7 @@
 								</span>
 							</li>
 
-							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9">
+							<li class="flex-wr-s-s t1-s-2 cl-13 p-b-9 k_align_center">
 								<span class="size-w-3">
 									<i class="fa fa-phone" aria-hidden="true"></i>
 								</span>
@@ -89,15 +89,15 @@
 						</ul>
 					</div>
 
-					<div class="col-sm-8 col-md-4 col-lg-5 p-b-20">
+					<div class="col-sm-8 col-md-4 col-lg-5 p-b-20 k_align_center">
 						<div class=" flex-s-e m-b-18">
-							<h4 class="t1-m-3 text-uppercase cl-0">
+							<h4 class="t1-m-3 text-uppercase cl-0 k_align_center" >
 								Куда поехать
 							</h4>
 						</div>
 
 						<div class="flex-wr-s-s">
-							<ul class="w-50">
+							<ul class="w-50 ">
 								<li class="kit-list1 p-b-9">
 									<a href="index.html" class="t1-s-2 cl-13 hov-link2 trans-02">
 										Чем заняться
