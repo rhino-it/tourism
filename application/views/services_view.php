@@ -4,7 +4,7 @@
 			<!-- Title section -->
 			<div class="flex-col-c-c p-b-50">
 				<h3 class="t1-b-1 cl-3 txt-center m-b-11">
-					Наши услуги
+					Популярные туры в Памир-Алай
 				</h3>
 
 				<div class="size-a-2 bg-3"></div>
@@ -13,7 +13,7 @@
 			<!--  -->
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10 h-full">
+					<div class="bg-14 h-full">
 						<a href="http://pamir.kg/pages/news_page" class="hov-img0 of-hidden bg-0">
 							<!-- <img src="<?php echo base_url().'assets/images/1.jpg';?>" alt="IMG"> -->
 							<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
@@ -21,7 +21,7 @@
 
 						<div class="p-rl-30 p-t-26 p-b-20">
 							<h4 class="p-b-9">
-								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02">
+								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02 er_tema_news">
 									Восхождения на пик Ленина 
 								</a>
 							</h4>
@@ -34,7 +34,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10g h-full">
+					<div class="bg-14 h-full">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
 							<!-- <img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG"> -->
 <div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
@@ -42,7 +42,7 @@
 
 						<div class="p-rl-30 p-t-26 p-b-20">
 							<h4 class="p-b-9">
-								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02">
+								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02 er_tema_news">
 									Экстримальные туры
 								</a>
 							</h4>
@@ -55,7 +55,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10 h-full">
+					<div class="bg-14 h-full">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
 						<!-- 	<img src="<?php echo base_url().'assets/images/5.png';?>" alt="IMG"> -->
 						<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/5.png';?>');"></div>
@@ -63,7 +63,7 @@
 
 						<div class="p-rl-30 p-t-26 p-b-20">
 							<h4 class="p-b-9">
-								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02">
+								<a href="services-detail-01.html" class="t1-m-1 cl-0 hov-link2 trans-02 er_tema_news">
 									Джайлоо-туризм
 								</a>
 							</h4>
@@ -77,7 +77,7 @@
 				</div>
 			</div>
 		</div>
-		<div style="background-image: url(<?php echo base_url().'assets/images/divider_4.png';?>); width: 100%;
+<!-- 		<div style="background-image: url(<?php echo base_url().'assets/images/divider_4.png';?>); width: 100%;
 height: 100px; background-repeat: no-repeat; position: absolute; bottom: -42px;
-left: 0;"></div>
+left: 0;"></div> -->
 	</section>

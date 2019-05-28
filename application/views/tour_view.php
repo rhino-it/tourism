@@ -74,8 +74,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item business-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -93,8 +93,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item business-n training-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -112,8 +112,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item business-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -131,8 +131,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item market-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -150,8 +150,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item market-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -169,8 +169,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item security-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -187,8 +187,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item security-n market-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -206,8 +206,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item training-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
@@ -225,8 +225,8 @@
 						<div class="col-sm-6 col-lg-4 p-b-45 isotope-item training-n">
 							<div class="flex-col-s-c">
 								<div class="w-full pos-relative wrap-pic-w m-b-16">
-									<img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG">
-
+									<!-- <img src="<?php echo base_url().'assets/images/croatia.jpg';?>" alt="IMG"> -->
+									<div class="k_background_pamir" style="background-image: url('<?php echo base_url().'assets/images/croatia.jpg';?>'); "></div>
 									<div class="s-full ab-t-l flex-col-c-c hov-1 p-tb-30 p-rl-15">
 										<a href="projects-detail-01.html" class="size-a-15 d-inline-flex flex-c-c bg-11 t1-s-2 text-uppercase cl-0 hov-btn2 trans-02 p-rl-10 hov-1-2">
 											Подробно
