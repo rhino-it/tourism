@@ -2132,7 +2132,7 @@ input.num-product::-webkit-inner-spin-button {
 .bcl-11 {border-color: #16a086;}
 .bcl-12 {border-color: #ccc;}
 .bcl-13 {border-color: rgba(204,204,204,0.7);}
-.bcl-14 {border-color: #ddd;}
+.bcl-14 {border-color: #ddd;} 
 
 /*---------------------------------------------*/
 .cl-none {color: transparent;}
@@ -2153,6 +2153,7 @@ input.num-product::-webkit-inner-spin-button {
 .cl-14 {color: #ccc;}
 .cl-15 {color: #f2f2f2;}
 .cl-16 {color: #595959;}
+.cl-17 {color:  #05233a;}
 
 
 /*==================================================================
@@ -2552,6 +2553,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg-12 {background-color: #26C281;}
 .bg-12y {background-color: #F8961F;}
 .bg-13 {background-color: #dc7356;}
+.bg-14 {background-color: #05233a;}
 
 
 /*---------------------------------------------*/
@@ -2811,7 +2813,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov-link2:hover {
-  color: #16a086;
+  /*color: #000;*/
 }
 
 /*---------------------------------------------*/
@@ -3134,11 +3136,11 @@ input.num-product::-webkit-inner-spin-button {
     width: 100%;
      height: 250px;
 
-transition: 1s;
+transition: .5s;
 }
 
 .beki:hover{
-  transform: scale(1.6);
+  transform: scale(1.1);
 }
 
 .k_aviabilety{
@@ -3535,14 +3537,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
   }
 
 .k_background_block_pamir{
-  height: 200px; width: 100%;
+  /*height: 200px; */
+  width: 100%;
 }
 .k_background_pamir{
   background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover; 
   width: 100%; 
-  height: 100%;
+  height: 200px;
 }
 .k_footer_logo{
   background-position: left;
@@ -3569,7 +3572,33 @@ display: inline-block;
   width: 100%;
 }
 }
-
-
-
-
+.er_tema_news{
+  font-size: 1.5rem;
+}
+.er_tema_news:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: #fff;
+    transition: width .5s ease-in-out;
+}
+.er_tema_news:hover{
+  color: #fff;
+}
+.er_tema_news:hover:after,
+.er_tema_news:focus:after {
+    width: 100%;
+}
+.er_bg_none::before,
+.er_bg_none::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: inherit;
+}

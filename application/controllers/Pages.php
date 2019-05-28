@@ -14,13 +14,13 @@ class Pages extends CI_Controller {
 		$this->load->view('header_view');
 		$this->load->view('slider_view');
 		$this->load->view('services_view');
-		// $this->load->view('call_back_view');
-		$this->load->view('project_view');
 		$this->load->view('number_view');
 		$this->load->view('news_view');
-		$this->load->view('partners_view');
-		$this->load->view('testimonials_view');
-		$this->load->view('sign_up_view');
+		// $this->load->view('call_back_view');
+		// $this->load->view('project_view');
+		// $this->load->view('partners_view');
+		// $this->load->view('testimonials_view');
+		// $this->load->view('sign_up_view');
 		$this->load->view('footer_view');
 	}	
 
