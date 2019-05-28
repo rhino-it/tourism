@@ -248,6 +248,18 @@ if (window.innerHeight < window.innerWidth) {
 	}
 }
 }
+	
+setInterval(whatsapp_button_from_right, 1300);
+var btn_whatsapp = document.querySelector('.k_whatsapp');
+function whatsapp_button_from_right(){
+	 btn_whatsapp.style.right = '0px';
+}
+
+setInterval(phone_button_from_right, 1000);
+var btn_phone = document.querySelector('.k_phone');
+function phone_button_from_right(){
+	 btn_phone.style.right = '0px';
+}
 </script>
 
 

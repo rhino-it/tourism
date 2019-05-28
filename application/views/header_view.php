@@ -84,7 +84,8 @@
 
 						<li>
 
-							<a href="#"> <img src="<?php echo base_url().'assets/images/palm-tree.png';?>"> ТУРЫ</a>
+							<a href="#">  ТУРЫ</a>
+							<!-- <a href="#"> <img src="<?php echo base_url().'assets/images/palm-tree.png';?>"> ТУРЫ</a> -->
 
 
 							<ul class="sub-menu">
@@ -111,7 +112,7 @@
 
 								<li>
 
-									<a href="<?php echo base_url('pages/airticket'); ?>"><i class="fa fa-plane" aria-hidden="true"></i> АВИАБИЛЕТЫ</a>
+									<a href="<?php echo base_url('pages/airticket'); ?>"> АВИАБИЛЕТЫ</a>
 
 								<!-- <ul class="sub-menu">
 									<li><a href="projects-grid.html">МОСКВА</a></li>
@@ -121,20 +122,20 @@
 							</li>
 
 							<li>
-								<a href="<?php echo base_url('pages/for_clients'); ?>"><i class="fa fa-user" aria-hidden="true"></i> КЛИЕНТАМ</a>
+								<a href="<?php echo base_url('pages/for_clients'); ?>"></i> КЛИЕНТАМ</a>
 							</li>
 							
 							<li>
-								<a href="<?php echo base_url('pages/visa'); ?>"><i class="fa fa-address-card-o" aria-hidden="true"></i> ВИЗА</a>
+								<a href="<?php echo base_url('pages/visa'); ?>"></i> ВИЗА</a>
 							</li>
 							
 							<li>
-								<a href="<?php echo base_url('pages/about'); ?>"><i class="fa fa-building-o" aria-hidden="true"></i> О КОМПАНИИ</a>
+								<a href="<?php echo base_url('pages/about'); ?>"></i> О КОМПАНИИ</a>
 							</li>
 
 							<li>
 
-								<a href="<?php echo base_url('pages/contact'); ?>"><i class="fa fa-address-card" aria-hidden="true"></i> КОНТАКТЫ</a>
+								<a href="<?php echo base_url('pages/contact'); ?>"> КОНТАКТЫ</a>
 								<!-- <ul class="sub-menu">
 
 									<li><a href="index.html">ВСЕ ЗАКЛАДКИ И РЕКЛАМНЫЙ КАРТИНКИ</a></li>

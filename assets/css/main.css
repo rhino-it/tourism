@@ -2546,7 +2546,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg-8 {background-color: #888;}
 .bg-9 {background-color: #999;}
 .bg-101 {background-color: #072032;}
-.bg-10g {background-color: #26C281;}
+.bg-10g {background-color: #313971;}
 .bg-10 {background-color: #DB2D14;}
 .bg-11 {background-color: none;}
 .bg-12 {background-color: #26C281;}
@@ -3414,6 +3414,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
   margin-bottom: 20px;
   border-radius: 50%;
   position: relative;
+  right: -150px;
+  transition: 1s; 
 }
 .k_phone:after {
   content: "";
@@ -3462,6 +3464,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
 .k_whatsapp {
   border-radius: 50%;
   position: relative;
+  right: -150px;
+  transition: 1s; 
 
 }
 .k_whatsapp a{
@@ -3469,6 +3473,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
   background-color: #48C358;
   height: 50px;
   width: 50px;
+
   text-align: center;
   line-height: 47px;
   font-size: 1.8em;
