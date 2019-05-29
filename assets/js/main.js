@@ -470,3 +470,5 @@
 //   clearInterval(timerId);
 //   console.log( 'стоп' );
 // }, 0);
+
+

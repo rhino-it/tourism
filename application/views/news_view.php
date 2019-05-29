@@ -157,14 +157,14 @@
 		<div class="container">
 			<div class="flex-col-c-c p-b-50">
 				<h3 class="t1-b-1 cl-3 txt-center m-b-11">
-					Туры в другие страны ""
+					Популярные туры в другие страны
 				</h3>
 
 				<div class="size-a-2 bg-3"></div>
 			</div>
 			<div class="row justify-content-center">
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10 h-full">
+					<div class="bg-10 h-full k_hover">
 						<a href="http://pamir.kg/pages/news_page" class="hov-img0 of-hidden bg-0">
 							<!-- <img src="<?php echo base_url().'assets/images/1.jpg';?>" alt="IMG"> -->
 							<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
@@ -185,7 +185,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10 h-full">
+					<div class="bg-10 h-full k_hover">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
 							<!-- <img src="<?php echo base_url().'assets/images/3.jpg';?>" alt="IMG"> -->
 <div class="beki" style="background-image: url('<?php echo base_url().'assets/images/3.jpg';?>');"></div>
@@ -206,7 +206,7 @@
 				</div>
 
 				<div class="col-sm-10 col-md-8 col-lg-4 p-b-40">
-					<div class="bg-10 h-full">
+					<div class="bg-10 h-full k_hover">
 						<a href="services-detail-01.html" class="hov-img0 of-hidden bg-0">
 						<!-- 	<img src="<?php echo base_url().'assets/images/5.png';?>" alt="IMG"> -->
 						<div class="beki" style="background-image: url('<?php echo base_url().'assets/images/5.png';?>');"></div>

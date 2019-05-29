@@ -8,11 +8,11 @@ left: 0;">
 			<div class="row">
 				<div class="col-md-4 p-tb-30">
 					<div class="flex-col-c-c h-full">
-						<span class="t1-b-2 txt-center p-b-5 counter" style="color: orange;">
+						<span class="t1-b-2 txt-center p-b-5 counter" style="color: #ddd;">
 							450
 						</span>
 
-						<span class="t1-m-1 txt-center text-uppercase" style="color: orange;">
+						<span class="t1-m-1 txt-center text-uppercase" style="color: #ddd;">
 							факты 
 						</span>
 					</div>
@@ -20,11 +20,11 @@ left: 0;">
 
 				<div class="col-md-4 p-tb-30">
 					<div class="flex-col-c-c h-full">
-						<span class="t1-b-2 txt-center p-b-5 counter" style="color: orange;">
+						<span class="t1-b-2 txt-center p-b-5 counter" style="color: #ddd;">
 							205
 						</span>
 
-						<span class="t1-m-1 txt-center text-uppercase" style="color: orange;">
+						<span class="t1-m-1 txt-center text-uppercase" style="color: #ddd;">
 							прекрастные места
 						</span>
 					</div>
@@ -32,11 +32,11 @@ left: 0;">
 
 				<div class="col-md-4 p-tb-30">
 					<div class="flex-col-c-c h-full">
-						<span  style="color: orange;" class="t1-b-2 txt-center p-b-5">
+						<span  style="color: #ddd;" class="t1-b-2 txt-center p-b-5">
 							<span class="counter">95</span>%
 						</span>
 
-						<span class="t1-m-1 txt-center text-uppercase" style="color: orange;">
+						<span class="t1-m-1 txt-center text-uppercase" style="color: #ddd;">
 							чистый воздух
 						</span>
 					</div>

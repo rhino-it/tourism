@@ -3135,11 +3135,12 @@ input.num-product::-webkit-inner-spin-button {
    background-repeat: no-repeat;
     width: 100%;
      height: 250px;
-
-transition: .5s;
+     transition: .5s;
 }
-
-.beki:hover{
+.k_hover{
+  cursor: pointer;
+}
+.k_hover:hover .beki{
   transform: scale(1.1);
 }
 
@@ -3387,7 +3388,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b92e3', end
 }
 
 
-
 /*.module {
   height: 100vh;  Use vh as a fallback for browsers that do not support Custom Properties 
   height: calc(var(--vh, 1vh) * 100);
@@ -3588,11 +3588,11 @@ display: inline-block;
     background-color: #fff;
     transition: width .5s ease-in-out;
 }
-.er_tema_news:hover{
+.k_hover:hover .er_tema_news{
   color: #fff;
 }
-.er_tema_news:hover:after,
-.er_tema_news:focus:after {
+.k_hover:hover .er_tema_news:after,
+.k_hover:hover .er_tema_news:after {
     width: 100%;
 }
 .er_bg_none::before,
@@ -3607,3 +3607,4 @@ display: inline-block;
   left: 0;
   background-color: inherit;
 }
+

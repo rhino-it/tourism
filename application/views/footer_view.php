@@ -2,7 +2,8 @@
 <!-- Footer -->
 
 <footer>
-	<div class="parallax100 kit-overlay1 p-b-10 p-t-90" style="background-image: url(<?php echo base_url().'assets/images/footer3.jpg';?>); position: relative;">
+	<div class="parallax100 p-b-10 p-t-90" style="background-image: url(<?php echo base_url().'assets/images/footer7.jpeg';?>); position: relative;"> 
+		<!-- class = "kit-overlay1"  -->
 		<div style="background-image: url(<?php echo base_url().'assets/images/divider-top.png';?>); width: 100%;
 		height: 100px; background-repeat: no-repeat; position: absolute; top:-0px;
 		left: 0;"></div>
@@ -260,6 +261,8 @@ var btn_phone = document.querySelector('.k_phone');
 function phone_button_from_right(){
 	 btn_phone.style.right = '0px';
 }
+
+
 </script>
 
 
