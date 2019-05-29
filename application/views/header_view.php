@@ -122,11 +122,11 @@
 							</li>
 
 							<li>
-								<a href="<?php echo base_url('pages/for_clients'); ?>"></i> КЛИЕНТАМ</a>
+								<a href="<?php echo base_url('pages/visa'); ?>"></i> ВИЗА</a>
 							</li>
 							
 							<li>
-								<a href="<?php echo base_url('pages/visa'); ?>"></i> ВИЗА</a>
+								<a href="<?php echo base_url('pages/for_clients'); ?>"></i> КЛИЕНТАМ</a>
 							</li>
 							
 							<li>
